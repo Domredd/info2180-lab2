@@ -1,2 +1,3 @@
-# info2180-lab2
-One Page Blog site using Hypertext Markup Language (HTML) and Cascading Stylesheets (CSS).
+# INFO2180 Lab 2 
+ 
+This is Lab 2 for Dominique Reddicks
